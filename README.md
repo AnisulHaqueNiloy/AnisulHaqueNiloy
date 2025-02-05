@@ -1,70 +1,101 @@
-![Banner](https://your-banner-image-url.com)
+<img align="right" height="200" src="https://avatars.githubusercontent.com/u/142687988?v=4"  />
 
-# Niloy [Your Full Name]  
-### MERN Stack Developer | Shopify Developer | Frontend Developer
+###
 
-## 👋 About Me
-I am a passionate MERN stack developer with expertise in building dynamic, responsive, and scalable web applications. I specialize in React.js, Node.js, and Express.js, and I am currently diving into Shopify development and WordPress theme customization.
+<h1 align="left">MERN Stack Developer | Frontend Developer</h1>
 
-## 🚀 Currently Exploring
-- Working on a **multi-vendor medicine-selling e-commerce platform** using the MERN stack.
-- Learning **Shopify development** to expand my skill set.
-- Enhancing **WordPress theme customization** capabilities.
+###
 
-## 🛠 Skills
+<h1 align="left">👋 About Me</h1>
 
-### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+###
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<p align="left">I am Anisul Haque Niloy, a passionate frontend developer specializing in React.js, Tailwind CSS, and JavaScript. I enjoy building interactive and user-friendly web applications with modern technologies. Currently, I am focused on enhancing my frontend development skills while working on dynamic and scalable projects. I am always eager to learn and explore new tools in the web development ecosystem. Additionally, I am diving deeper into advanced React concepts, including Redux, to strengthen my development toolkit.</p>
 
-### Tools & Platforms
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+###
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-github)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox)](https://your-portfolio.com)
+<p align="left">📚 Currently Learning: Redux and advanced React concepts<br>🎯 Career Goal: Full MERN Stack Developer<br>🎲 Fun Fact: I love traveling and exploring new places<br>✨ Hobby: Playing Guitar</p>
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=radical)
+###
 
-## 📌 Pinned Repositories
-[![Shopequip](https://github-readme-stats.vercel.app/api/pin/?username=your-github&repo=shopequip&theme=radical)](https://github.com/your-github/shopequip)
-[![Career Counseling](https://github-readme-stats.vercel.app/api/pin/?username=your-github&repo=career-counseling&theme=radical)](https://github.com/your-github/career-counseling)
-[![Multi-vendor Medicine](https://github-readme-stats.vercel.app/api/pin/?username=your-github&repo=multi-vendor-medicine&theme=radical)](https://github.com/your-github/multi-vendor-medicine)
+<br clear="both">
 
-## 📁 Pinned Repository Structure
-For each pinned repository, ensure the **README.md** includes:
+<img align="right" height="200" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/200.webp?cid=790b76117a5f8dq9b4evr2rnqh2qvuu166612k2entpsxu26&ep=v1_gifs_search&rid=200.webp&ct=g"  />
 
-1. **Project Overview**: A short description of what the project does.
-2. **Live Link**: [Project Live Demo](https://your-live-link.com)
-3. **Tech Stack**: List of technologies used.
-4. **Screenshot**: Add a relevant image.
-5. **Features**: Highlight key functionalities.
-6. **Dependencies**: Mention libraries/packages used.
-7. **Installation Guide**:
-```sh
-# Clone the repo
-git clone https://github.com/your-github/project-name.git
+###
 
-# Install dependencies
-npm install
+<h2 align="left">🛠 I am working with</h2>
 
-# Run the project
-npm start
-```
-8. **Live Demo & Resources**: Include relevant links.
+###
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+</div>
 
-This README will make your GitHub profile **professional and attractive**, helping you showcase your skills and projects effectively. 🚀
+###
+
+<h2 align="left">🚀 Currently Exploring</h2>
+
+###
+
+<p align="left">• Working on a multi-vendor medicine-selling e-commerce platform using the MERN stack.<br>• Learning Redux to master state management in React.<br>• Enhancing my knowledge of advanced React concepts.</p>
+
+###
+
+<h2 align="left">Tools & Platforms</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
+
+###
+
+<h2 align="left">🔗 Connect with Me</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/anisul-haque-niloy-/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="anisulhaque29" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/niloy2917" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Github States</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnisulHaqueNiloy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnisulHaqueNiloy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=AnisulHaqueNiloy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
