@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left">• Working on a multi-vendor medicine-selling e-commerce platform using the MERN stack.<br>• Learning Redux to master state management in React.<br>• Enhancing my knowledge of advanced React concepts.</p>
+<p align="left">✨Working on a multi-vendor medicine-selling e-commerce platform using the MERN stack.<br>✨Learning Redux to master state management in React.<br>✨ Enhancing my knowledge of advanced React concepts.</p>
 
 ###
 
