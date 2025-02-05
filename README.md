@@ -52,6 +52,40 @@
 
 ###
 
+<h2 align="left">📌 Pinned Repositories</h2>
+
+###
+
+[![React-Based-E-Commerce-Platform](https://github-readme-stats.vercel.app/api/pin/?username=AnisulHaqueNiloy&repo=React-Based-E-Commerce-Platform&theme=dracula)](https://github.com/AnisulHaqueNiloy/React-Based-E-Commerce-Platform)
+
+**Project Overview:** A fully functional e-commerce platform built with React.js, Node.js, and MongoDB. Users can browse products, add to cart, and complete secure payments.
+
+🔗 **Live Project:** [View Here](#)
+
+🛠 **Technologies Used:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB
+
+---
+
+[![Player-Selection-Management](https://github-readme-stats.vercel.app/api/pin/?username=AnisulHaqueNiloy&repo=Player-Selection-Management&theme=dracula)](https://github.com/AnisulHaqueNiloy/Player-Selection-Management)
+
+**Project Overview:** A dynamic player selection and management system for teams. Users can add, remove, and manage team members efficiently.
+
+🔗 **Live Project:** [View Here](#)
+
+🛠 **Technologies Used:** React.js, JavaScript, Bootstrap, Firebase
+
+---
+
+[![Barn-House-Project](https://github-readme-stats.vercel.app/api/pin/?username=AnisulHaqueNiloy&repo=Barn-House-Project&theme=dracula)](https://github.com/AnisulHaqueNiloy/Barn-House-Project)
+
+**Project Overview:** A real estate platform for listing and renting barn houses. Users can browse listings, view details, and book properties.
+
+🔗 **Live Project:** [View Here](#)
+
+🛠 **Technologies Used:** React.js, Tailwind CSS, Firebase Authentication
+
+###
+
 <h2 align="left">Tools & Platforms</h2>
 
 ###
@@ -84,18 +118,11 @@
 
 ###
 
-<h2 align="left">Github States</h2>
+<h2 align="left">Github Stats</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnisulHaqueNiloy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnisulHaqueNiloy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=AnisulHaqueNiloy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AnisulHaqueNiloy&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnisulHaqueNiloy&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnisulHaqueNiloy&layout=compact&theme=dracula" height="150" alt="languages graph"  />
 </div>
-## 📌 Pinned Repositories
-
-[![Shopequip](https://github-readme-stats.vercel.app/api/pin/?username=AnisulHaqueNiloy&repo=Shopequip&theme=dracula)](https://github.com/AnisulHaqueNiloy/Shopequip)
-
-###
