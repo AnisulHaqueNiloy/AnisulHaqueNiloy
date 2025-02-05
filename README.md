@@ -20,12 +20,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/200.webp?cid=790b76117a5f8dq9b4evr2rnqh2qvuu166612k2entpsxu26&ep=v1_gifs_search&rid=200.webp&ct=g"  />
-
-###
-
 <h2 align="left">🛠 I am working with</h2>
 
 ###
