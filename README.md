@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Anisul Haque Niloy | Frontend Developer</h1>
+<h1 align="center">Anisul Haque Niloy | Frontend Developer | MERN Developer</h1>
 
 ###
 
