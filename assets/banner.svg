@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Anisul Haque Niloy banner">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="45%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#042F2E"/>
+    </linearGradient>
+    <linearGradient id="aurora" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#38BDF8" stop-opacity="0.55"/>
+      <stop offset="65%" stop-color="#14B8A6" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#F97316" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0%" y1="0%" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#14B8A6" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="55%" stop-color="#E0F2FE"/>
+      <stop offset="100%" stop-color="#67E8F9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="42%" r="35%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="55%" stop-color="#0EA5E9" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0B1220" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="18%" cy="70%" r="28%">
+      <stop offset="0%" stop-color="#F97316" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#0B1220" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#94A3B8" stroke-width="0.6" stroke-opacity="0.12"/>
+    </pattern>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+  <ellipse cx="920" cy="120" rx="260" ry="140" fill="url(#glow)"/>
+  <ellipse cx="180" cy="250" rx="220" ry="120" fill="url(#glow2)"/>
+  <path d="M0 210 C180 150 320 260 500 200 C700 130 860 240 1200 170 L1200 340 L0 340 Z" fill="url(#aurora)" opacity="0.35"/>
+
+  <!-- abstract frame -->
+  <g opacity="0.9">
+    <rect x="820" y="58" width="300" height="190" rx="18" fill="#0F172A" stroke="#334155" stroke-width="1.5"/>
+    <rect x="820" y="58" width="300" height="34" rx="18" fill="#111827"/>
+    <circle cx="844" cy="75" r="5" fill="#F87171"/>
+    <circle cx="862" cy="75" r="5" fill="#FBBF24"/>
+    <circle cx="880" cy="75" r="5" fill="#34D399"/>
+    <text x="900" y="80" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">anisul.dev</text>
+
+    <text x="848" y="122" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">const</text>
+    <text x="900" y="122" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">dev</text>
+    <text x="935" y="122" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">= {</text>
+    <text x="860" y="148" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">role:</text>
+    <text x="910" y="148" fill="#34D399" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">"Full-Stack"</text>
+    <text x="860" y="174" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">stack:</text>
+    <text x="918" y="174" fill="#FBBF24" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">"MERN"</text>
+    <text x="860" y="200" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">now:</text>
+    <text x="904" y="200" fill="#22D3EE" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">"ASP.NET + PG"</text>
+    <text x="848" y="226" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">};</text>
+  </g>
+
+  <!-- network nodes -->
+  <g stroke="#38BDF8" stroke-opacity="0.35" stroke-width="1.2" fill="none">
+    <path d="M70 80 L150 120 L230 70 L310 130"/>
+    <path d="M150 120 L190 190 L280 170"/>
+    <path d="M680 70 L740 110 L800 80"/>
+  </g>
+  <g fill="#67E8F9">
+    <circle cx="70" cy="80" r="3.5"/><circle cx="150" cy="120" r="4.5"/><circle cx="230" cy="70" r="3"/>
+    <circle cx="310" cy="130" r="3.5"/><circle cx="190" cy="190" r="3"/><circle cx="280" cy="170" r="3.5"/>
+    <circle cx="680" cy="70" r="3"/><circle cx="740" cy="110" r="4"/><circle cx="800" cy="80" r="3"/>
+  </g>
+
+  <!-- accent beam -->
+  <path d="M48 268 L280 268" stroke="url(#beam)" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- title block -->
+  <text x="48" y="118" fill="#67E8F9" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="15" letter-spacing="4" font-weight="600">FULL-STACK DEVELOPER</text>
+  <text x="48" y="175" fill="url(#titleGrad)" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="52" font-weight="800">Anisul Haque Niloy</text>
+  <text x="48" y="218" fill="#94A3B8" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="18">React · Node · MongoDB · TypeScript · Exploring .NET</text>
+
+  <!-- chips -->
+  <g font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="12" font-weight="600">
+    <rect x="48" y="246" width="86" height="28" rx="14" fill="#0EA5E9" fill-opacity="0.18" stroke="#38BDF8" stroke-opacity="0.5"/>
+    <text x="91" y="264" text-anchor="middle" fill="#7DD3FC">Softvence</text>
+    <rect x="144" y="246" width="72" height="28" rx="14" fill="#14B8A6" fill-opacity="0.18" stroke="#2DD4BF" stroke-opacity="0.5"/>
+    <text x="180" y="264" text-anchor="middle" fill="#99F6E4">Dhaka</text>
+    <rect x="226" y="246" width="96" height="28" rx="14" fill="#F97316" fill-opacity="0.16" stroke="#FB923C" stroke-opacity="0.5"/>
+    <text x="274" y="264" text-anchor="middle" fill="#FDBA74">Open to Work</text>
+  </g>
+</svg>
