@@ -2,35 +2,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#090014"/>
-      <stop offset="45%" stop-color="#16082B"/>
-      <stop offset="100%" stop-color="#2A1052"/>
+      <stop offset="0%" stop-color="#070B12"/>
+      <stop offset="50%" stop-color="#0E1624"/>
+      <stop offset="100%" stop-color="#162033"/>
     </linearGradient>
     <linearGradient id="title" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FAF5FF"/>
-      <stop offset="55%" stop-color="#E9D5FF"/>
-      <stop offset="100%" stop-color="#C084FC"/>
+      <stop offset="0%" stop-color="#F3F1EB"/>
+      <stop offset="70%" stop-color="#C5D0DC"/>
+      <stop offset="100%" stop-color="#E2D3A8"/>
     </linearGradient>
     <linearGradient id="aurora" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0"/>
-      <stop offset="40%" stop-color="#A78BFA" stop-opacity="0.45"/>
-      <stop offset="75%" stop-color="#F0ABFC" stop-opacity="0.28"/>
-      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#C2A46B" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#C2A46B" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#8FA3B8" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="glowR" cx="82%" cy="35%" r="40%">
-      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.4"/>
-      <stop offset="100%" stop-color="#16082B" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#8FA3B8" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#0E1624" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glowL" cx="18%" cy="75%" r="32%">
-      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#090014" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#C2A46B" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#070B12" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#C084FC"/>
-      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0.15"/>
+      <stop offset="0%" stop-color="#C2A46B"/>
+      <stop offset="100%" stop-color="#C2A46B" stop-opacity="0.12"/>
     </linearGradient>
     <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#C4B5FD" stroke-width="0.55" stroke-opacity="0.1"/>
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#8FA3B8" stroke-width="0.55" stroke-opacity="0.1"/>
     </pattern>
   </defs>
 
@@ -38,42 +37,39 @@
   <rect width="1000" height="300" fill="url(#grid)"/>
   <ellipse cx="820" cy="90" rx="260" ry="140" fill="url(#glowR)"/>
   <ellipse cx="160" cy="230" rx="220" ry="120" fill="url(#glowL)"/>
-  <path d="M0 220 C180 160 340 270 520 210 C720 140 860 250 1000 180 L1000 300 L0 300 Z" fill="url(#aurora)" opacity="0.55"/>
-  <circle cx="120" cy="40" r="2.2" fill="#E9D5FF" opacity="0.9"/><circle cx="210" cy="70" r="1.8" fill="#E9D5FF" opacity="0.45"/><circle cx="320" cy="36" r="2.6" fill="#E9D5FF" opacity="0.9"/><circle cx="450" cy="55" r="1.6" fill="#E9D5FF" opacity="0.45"/><circle cx="160" cy="250" r="2" fill="#E9D5FF" opacity="0.9"/><circle cx="380" cy="270" r="1.7" fill="#E9D5FF" opacity="0.45"/><circle cx="70" cy="180" r="1.5" fill="#E9D5FF" opacity="0.9"/>
+  <path d="M0 220 C180 160 340 270 520 210 C720 140 860 250 1000 180 L1000 300 L0 300 Z" fill="url(#aurora)" opacity="0.7"/>
+  <circle cx="120" cy="40" r="2.2" fill="#E2D3A8" opacity="0.85"/><circle cx="210" cy="70" r="1.8" fill="#E2D3A8" opacity="0.35"/><circle cx="320" cy="36" r="2.6" fill="#E2D3A8" opacity="0.85"/><circle cx="450" cy="55" r="1.6" fill="#E2D3A8" opacity="0.35"/><circle cx="160" cy="250" r="2" fill="#E2D3A8" opacity="0.85"/><circle cx="380" cy="270" r="1.7" fill="#E2D3A8" opacity="0.35"/><circle cx="70" cy="180" r="1.5" fill="#E2D3A8" opacity="0.85"/>
 
-  <!-- hex accents -->
-  <g fill="none" stroke="#A78BFA" stroke-opacity="0.28" stroke-width="1.2">
+  <g fill="none" stroke="#C2A46B" stroke-opacity="0.28" stroke-width="1.2">
     <path d="M420 48 l14 8 v16 l-14 8 l-14 -8 v-16 z"/>
     <path d="M455 70 l10 6 v12 l-10 6 l-10 -6 v-12 z"/>
   </g>
 
-  <text x="40" y="78" fill="#C4B5FD" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="4" font-weight="700">FULL-STACK DEVELOPER</text>
+  <text x="40" y="78" fill="#C2A46B" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="4" font-weight="700">FULL-STACK DEVELOPER</text>
   <text x="40" y="128" fill="url(#title)" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="800">Anisul Haque Niloy</text>
-  <text x="40" y="162" fill="#D4C4F0" font-family="Segoe UI, Arial, sans-serif" font-size="15">MERN · TypeScript · ASP.NET Core · PostgreSQL</text>
+  <text x="40" y="162" fill="#9AA6B2" font-family="Segoe UI, Arial, sans-serif" font-size="15">MERN · TypeScript · ASP.NET Core · PostgreSQL</text>
   <rect x="40" y="180" width="180" height="4" rx="2" fill="url(#beam)"/>
 
-  <rect x="40" y="206" width="72" height="26" rx="13" fill="#7C3AED" fill-opacity="0.28" stroke="#A78BFA"/>
-  <text x="76" y="223" text-anchor="middle" fill="#E9D5FF" font-size="11" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Dhaka</text>
-  <rect x="122" y="206" width="102" height="26" rx="13" fill="#DB2777" fill-opacity="0.22" stroke="#F9A8D4"/>
-  <text x="173" y="223" text-anchor="middle" fill="#FBCFE8" font-size="11" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Open to Work</text>
-  <rect x="234" y="206" width="70" height="26" rx="13" fill="#8B5CF6" fill-opacity="0.25" stroke="#C4B5FD"/>
-  <text x="269" y="223" text-anchor="middle" fill="#DDD6FE" font-size="11" font-family="Segoe UI, Arial, sans-serif" font-weight="700">MERN</text>
+  <rect x="40" y="206" width="72" height="26" rx="13" fill="#162033" stroke="#8FA3B8" stroke-opacity="0.7"/>
+  <text x="76" y="223" text-anchor="middle" fill="#C5D0DC" font-size="11" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Dhaka</text>
+  <rect x="122" y="206" width="102" height="26" rx="13" fill="#1A160E" stroke="#C2A46B" stroke-opacity="0.75"/>
+  <text x="173" y="223" text-anchor="middle" fill="#E2D3A8" font-size="11" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Open to Work</text>
+  <rect x="234" y="206" width="70" height="26" rx="13" fill="#162033" stroke="#2A3548"/>
+  <text x="269" y="223" text-anchor="middle" fill="#C5D0DC" font-size="11" font-family="Segoe UI, Arial, sans-serif" font-weight="700">MERN</text>
 
-  <!-- terminal -->
-  <rect x="540" y="28" width="430" height="244" rx="16" fill="#0C0318" stroke="#7C3AED" stroke-opacity="0.65" stroke-width="1.6"/>
-  <rect x="540" y="28" width="430" height="34" rx="16" fill="#1A0B2E"/>
-  <rect x="540" y="48" width="430" height="14" fill="#1A0B2E"/>
-  <circle cx="562" cy="45" r="5" fill="#F472B6"/>
-  <circle cx="580" cy="45" r="5" fill="#FBBF24"/>
-  <circle cx="598" cy="45" r="5" fill="#34D399"/>
-  <text x="622" y="49" fill="#A78BFA" font-family="Consolas, Menlo, monospace" font-size="12">anisul@dev — violet mode</text>
-  <text x="568" y="92" font-family="Consolas, Menlo, monospace" font-size="13"><tspan fill="#C084FC">➜</tspan><tspan fill="#A78BFA"> ~ </tspan><tspan fill="#F5F3FF">npx create-stack@latest</tspan></text><text x="568" y="116" font-family="Consolas, Menlo, monospace" font-size="13" fill="#C4B5FD">✔ React + TypeScript locked in</text><text x="568" y="140" font-family="Consolas, Menlo, monospace" font-size="13" fill="#C4B5FD">✔ Node / Express / MongoDB</text><text x="568" y="164" font-family="Consolas, Menlo, monospace" font-size="13" fill="#DDD6FE">const craft = ["UI", "API", "DB"]</text><text x="568" y="188" font-family="Consolas, Menlo, monospace" font-size="13" fill="#DDD6FE">await explore("ASP.NET + EF Core")</text><text x="568" y="212" font-family="Consolas, Menlo, monospace" font-size="13"><tspan fill="#C084FC">➜</tspan><tspan fill="#A78BFA"> ~ </tspan><tspan fill="#F5F3FF">git push origin main ✦</tspan><tspan fill="#E9D5FF">▍</tspan></text>
+  <rect x="540" y="28" width="430" height="244" rx="16" fill="#0A0F18" stroke="#C2A46B" stroke-opacity="0.45" stroke-width="1.5"/>
+  <rect x="540" y="28" width="430" height="34" rx="16" fill="#121A27"/>
+  <rect x="540" y="48" width="430" height="14" fill="#121A27"/>
+  <circle cx="562" cy="45" r="5" fill="#B85C5C"/>
+  <circle cx="580" cy="45" r="5" fill="#C2A46B"/>
+  <circle cx="598" cy="45" r="5" fill="#5F8F72"/>
+  <text x="622" y="49" fill="#8FA3B8" font-family="Consolas, Menlo, monospace" font-size="12">anisul@dev — atelier</text>
+  <text x="568" y="92" font-family="Consolas, Menlo, monospace" font-size="13"><tspan fill="#C2A46B">➜</tspan><tspan fill="#8FA3B8"> ~ </tspan><tspan fill="#F3F1EB">npx create-stack@latest</tspan></text><text x="568" y="116" font-family="Consolas, Menlo, monospace" font-size="13" fill="#9AA6B2">✔ React + TypeScript locked in</text><text x="568" y="140" font-family="Consolas, Menlo, monospace" font-size="13" fill="#9AA6B2">✔ Node / Express / MongoDB</text><text x="568" y="164" font-family="Consolas, Menlo, monospace" font-size="13" fill="#C5D0DC">const craft = ["UI", "API", "DB"]</text><text x="568" y="188" font-family="Consolas, Menlo, monospace" font-size="13" fill="#C5D0DC">await explore("ASP.NET + EF Core")</text><text x="568" y="212" font-family="Consolas, Menlo, monospace" font-size="13"><tspan fill="#C2A46B">➜</tspan><tspan fill="#8FA3B8"> ~ </tspan><tspan fill="#F3F1EB">git push origin main ✦</tspan><tspan fill="#C2A46B">▍</tspan></text>
 
-  <!-- floating chips -->
-  <rect x="548" y="250" width="58" height="18" rx="6" fill="#7C3AED" fill-opacity="0.35" stroke="#A78BFA"/>
-  <text x="577" y="263" text-anchor="middle" fill="#E9D5FF" font-size="10" font-family="Consolas, Menlo, monospace">React</text>
-  <rect x="614" y="250" width="54" height="18" rx="6" fill="#6D28D9" fill-opacity="0.35" stroke="#C4B5FD"/>
-  <text x="641" y="263" text-anchor="middle" fill="#E9D5FF" font-size="10" font-family="Consolas, Menlo, monospace">Node</text>
-  <rect x="676" y="250" width="54" height="18" rx="6" fill="#5B21B6" fill-opacity="0.4" stroke="#DDD6FE"/>
-  <text x="703" y="263" text-anchor="middle" fill="#F5F3FF" font-size="10" font-family="Consolas, Menlo, monospace">.NET</text>
+  <rect x="548" y="250" width="58" height="18" rx="6" fill="#162033" stroke="#8FA3B8" stroke-opacity="0.6"/>
+  <text x="577" y="263" text-anchor="middle" fill="#C5D0DC" font-size="10" font-family="Consolas, Menlo, monospace">React</text>
+  <rect x="614" y="250" width="54" height="18" rx="6" fill="#162033" stroke="#8FA3B8" stroke-opacity="0.6"/>
+  <text x="641" y="263" text-anchor="middle" fill="#C5D0DC" font-size="10" font-family="Consolas, Menlo, monospace">Node</text>
+  <rect x="676" y="250" width="54" height="18" rx="6" fill="#1A160E" stroke="#C2A46B" stroke-opacity="0.55"/>
+  <text x="703" y="263" text-anchor="middle" fill="#E2D3A8" font-size="10" font-family="Consolas, Menlo, monospace">.NET</text>
 </svg>

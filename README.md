@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/AnisulHaqueNiloy/AnisulHaqueNiloy@main/assets/banner-violet.gif" width="100%" alt="Animated dark-violet coding banner — Anisul Haque Niloy" />
+  <img src="https://cdn.jsdelivr.net/gh/AnisulHaqueNiloy/AnisulHaqueNiloy@main/assets/banner-elegant.gif" width="100%" alt="Elegant coding banner — Anisul Haque Niloy" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=C084FC&center=true&vCenter=true&width=820&height=50&lines=const+dev+%3D+%22Full-Stack+Developer%22%3B;stack+%3D+%5B%22React%22%2C+%22Node%22%2C+%22MongoDB%22%5D%3B;exploring+%3D+%5B%22ASP.NET+Core%22%2C+%22PostgreSQL%22%2C+%22EF+Core%22%5D%3B" alt="Code typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=C2A46B&center=true&vCenter=true&width=820&height=50&lines=const+dev+%3D+%22Full-Stack+Developer%22%3B;stack+%3D+%5B%22React%22%2C+%22Node%22%2C+%22MongoDB%22%5D%3B;exploring+%3D+%5B%22ASP.NET+Core%22%2C+%22PostgreSQL%22%2C+%22EF+Core%22%5D%3B" alt="Code typing animation" />
 </div>
 
 <br />
@@ -23,8 +23,8 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🟣_Available_for_Opportunities-1A0B2E?style=for-the-badge&labelColor=090014&color=A78BFA" alt="Availability" />
-  <img src="https://komarev.com/ghpvc/?username=AnisulHaqueNiloy&label=Profile%20Views&color=a78bfa&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Available_for_Opportunities-0E1624?style=for-the-badge&labelColor=070B12&color=C2A46B" alt="Availability" />
+  <img src="https://komarev.com/ghpvc/?username=AnisulHaqueNiloy&label=Profile%20Views&color=8fa3b8&style=for-the-badge" alt="Profile views" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Line divider" />
@@ -66,7 +66,7 @@ const anisul = {
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=C084FC&center=true&vCenter=true&width=240&height=40&lines=npm+run+dev;git+commit+-m+%22ship%22;dotnet+build" alt="Mini terminal typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=C2A46B&center=true&vCenter=true&width=240&height=40&lines=npm+run+dev;git+commit+-m+%22ship%22;dotnet+build" alt="Mini terminal typing" />
 
 <br />
 
@@ -302,14 +302,14 @@ Full-stack grocery platform with inventory control and automated admin email ale
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35" height="35" /> GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=AnisulHaqueNiloy&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=12061F&title_color=C084FC&icon_color=A78BFA&text_color=E9D5FF&cache_seconds=1800" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs?username=AnisulHaqueNiloy&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=12061F&title_color=C084FC&text_color=E9D5FF&cache_seconds=1800" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=AnisulHaqueNiloy&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0E1624&title_color=C2A46B&icon_color=C2A46B&text_color=C5D0DC&cache_seconds=1800" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs?username=AnisulHaqueNiloy&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=0E1624&title_color=C2A46B&text_color=C5D0DC&cache_seconds=1800" alt="Top languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=AnisulHaqueNiloy&theme=radical&hide_border=true&background=12061F&ring=A78BFA&fire=F0ABFC&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=C4B5FD" alt="GitHub streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=AnisulHaqueNiloy&theme=dark&hide_border=true&background=0E1624&ring=C2A46B&fire=E2D3A8&currStreakLabel=C2A46B&sideLabels=C5D0DC&dates=8FA3B8" alt="GitHub streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Line divider" />
@@ -339,23 +339,23 @@ Full-stack grocery platform with inventory control and automated admin email ale
 <br />
 
 <a href="mailto:niloy2931@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-A78BFA?style=for-the-badge&logoColor=white&labelColor=12061F" alt="Email" />
+  <img src="https://img.shields.io/badge/📧_Email_Me-C2A46B?style=for-the-badge&logoColor=070B12&labelColor=0E1624" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/anisul-haque-niloy-/">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/💼_LinkedIn-8FA3B8?style=for-the-badge&logo=linkedin&logoColor=070B12" alt="LinkedIn" />
 </a>
 <a href="https://github.com/AnisulHaqueNiloy">
-  <img src="https://img.shields.io/badge/🐙_GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/🐙_GitHub-162033?style=for-the-badge&logo=github&logoColor=C5D0DC" alt="GitHub" />
 </a>
 
 <br /><br />
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />
 
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/AnisulHaqueNiloy/AnisulHaqueNiloy@main/assets/footer-violet.gif" width="100%" alt="Animated dark-violet footer" />
+  <img src="https://cdn.jsdelivr.net/gh/AnisulHaqueNiloy/AnisulHaqueNiloy@main/assets/footer-elegant.gif" width="100%" alt="Elegant footer" />
 </div>
