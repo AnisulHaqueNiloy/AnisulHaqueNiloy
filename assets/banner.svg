@@ -1,109 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Anisul Haque Niloy coding banner">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#020617"/>
-      <stop offset="50%" stop-color="#0B1220"/>
-      <stop offset="100%" stop-color="#042F2E"/>
+      <stop offset="0%" stop-color="#090014"/>
+      <stop offset="45%" stop-color="#16082B"/>
+      <stop offset="100%" stop-color="#2A1052"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FAF5FF"/>
+      <stop offset="55%" stop-color="#E9D5FF"/>
+      <stop offset="100%" stop-color="#C084FC"/>
     </linearGradient>
     <linearGradient id="aurora" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
-      <stop offset="40%" stop-color="#38BDF8" stop-opacity="0.4"/>
-      <stop offset="70%" stop-color="#14B8A6" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#F97316" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#A78BFA" stop-opacity="0.45"/>
+      <stop offset="75%" stop-color="#F0ABFC" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#F8FAFC"/>
-      <stop offset="60%" stop-color="#E0F2FE"/>
-      <stop offset="100%" stop-color="#67E8F9"/>
-    </linearGradient>
-    <linearGradient id="beam" x1="0%" y1="0%" x2="1" y2="0">
-      <stop offset="0%" stop-color="#38BDF8"/>
-      <stop offset="100%" stop-color="#14B8A6" stop-opacity="0.2"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="82%" cy="40%" r="38%">
-      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.28"/>
-      <stop offset="100%" stop-color="#0B1220" stop-opacity="0"/>
+    <radialGradient id="glowR" cx="82%" cy="35%" r="40%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#16082B" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glow2" cx="15%" cy="75%" r="30%">
-      <stop offset="0%" stop-color="#F97316" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#0B1220" stop-opacity="0"/>
+    <radialGradient id="glowL" cx="18%" cy="75%" r="32%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#090014" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#94A3B8" stroke-width="0.55" stroke-opacity="0.11"/>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C084FC"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0.15"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#C4B5FD" stroke-width="0.55" stroke-opacity="0.1"/>
     </pattern>
-    <clipPath id="termClip"><rect x="730" y="42" width="420" height="250" rx="16"/></clipPath>
   </defs>
 
-  <rect width="1200" height="360" fill="url(#bg)"/>
-  <rect width="1200" height="360" fill="url(#grid)"/>
-  <ellipse cx="960" cy="120" rx="280" ry="150" fill="url(#glow)"/>
-  <ellipse cx="160" cy="280" rx="220" ry="120" fill="url(#glow2)"/>
-  <path d="M0 230 C200 170 340 280 520 220 C720 150 880 260 1200 190 L1200 360 L0 360 Z" fill="url(#aurora)" opacity="0.32"/>
+  <rect width="1000" height="300" fill="url(#bg)"/>
+  <rect width="1000" height="300" fill="url(#grid)"/>
+  <ellipse cx="820" cy="90" rx="260" ry="140" fill="url(#glowR)"/>
+  <ellipse cx="160" cy="230" rx="220" ry="120" fill="url(#glowL)"/>
+  <path d="M0 220 C180 160 340 270 520 210 C720 140 860 250 1000 180 L1000 300 L0 300 Z" fill="url(#aurora)" opacity="0.55"/>
+  <circle cx="120" cy="40" r="2.2" fill="#E9D5FF" opacity="0.9"/><circle cx="210" cy="70" r="1.8" fill="#E9D5FF" opacity="0.45"/><circle cx="320" cy="36" r="2.6" fill="#E9D5FF" opacity="0.9"/><circle cx="450" cy="55" r="1.6" fill="#E9D5FF" opacity="0.45"/><circle cx="160" cy="250" r="2" fill="#E9D5FF" opacity="0.9"/><circle cx="380" cy="270" r="1.7" fill="#E9D5FF" opacity="0.45"/><circle cx="70" cy="180" r="1.5" fill="#E9D5FF" opacity="0.9"/>
 
-  <!-- floating code rain -->
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#22D3EE" opacity="0.18">
-    <text x="520" y="40">const</text><text x="560" y="58">await</text><text x="540" y="76">=&gt;</text>
-    <text x="610" y="50">{ }</text><text x="640" y="70">npm</text><text x="600" y="90">git</text>
-    <text x="500" y="110">&lt;/&gt;</text><text x="650" y="110">API</text>
-    <text x="520" y="130">JWT</text><text x="580" y="150">CRUD</text>
-    <text x="630" y="170">SQL</text><text x="500" y="170">useState</text>
+  <!-- hex accents -->
+  <g fill="none" stroke="#A78BFA" stroke-opacity="0.28" stroke-width="1.2">
+    <path d="M420 48 l14 8 v16 l-14 8 l-14 -8 v-16 z"/>
+    <path d="M455 70 l10 6 v12 l-10 6 l-10 -6 v-12 z"/>
   </g>
 
-  <!-- left identity -->
-  <text x="48" y="96" fill="#67E8F9" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="14" letter-spacing="3.5" font-weight="700">FULL-STACK DEVELOPER</text>
-  <text x="48" y="150" fill="url(#titleGrad)" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="48" font-weight="800">Anisul Haque Niloy</text>
-  <text x="48" y="188" fill="#94A3B8" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="16">Shipping MERN products · Exploring ASP.NET Core &amp; PostgreSQL</text>
-  <path d="M48 210 L270 210" stroke="url(#beam)" stroke-width="3" stroke-linecap="round"/>
+  <text x="40" y="78" fill="#C4B5FD" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="4" font-weight="700">FULL-STACK DEVELOPER</text>
+  <text x="40" y="128" fill="url(#title)" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="800">Anisul Haque Niloy</text>
+  <text x="40" y="162" fill="#D4C4F0" font-family="Segoe UI, Arial, sans-serif" font-size="15">MERN · TypeScript · ASP.NET Core · PostgreSQL</text>
+  <rect x="40" y="180" width="180" height="4" rx="2" fill="url(#beam)"/>
 
-  <g font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="12" font-weight="700">
-    <rect x="48" y="228" width="92" height="28" rx="14" fill="#0EA5E9" fill-opacity="0.18" stroke="#38BDF8" stroke-opacity="0.55"/>
-    <text x="94" y="246" text-anchor="middle" fill="#7DD3FC">Softvence</text>
-    <rect x="150" y="228" width="78" height="28" rx="14" fill="#14B8A6" fill-opacity="0.18" stroke="#2DD4BF" stroke-opacity="0.55"/>
-    <text x="189" y="246" text-anchor="middle" fill="#99F6E4">Dhaka BD</text>
-    <rect x="238" y="228" width="110" height="28" rx="14" fill="#F97316" fill-opacity="0.16" stroke="#FB923C" stroke-opacity="0.55"/>
-    <text x="293" y="246" text-anchor="middle" fill="#FDBA74">Open to Work</text>
-  </g>
+  <rect x="40" y="206" width="72" height="26" rx="13" fill="#7C3AED" fill-opacity="0.28" stroke="#A78BFA"/>
+  <text x="76" y="223" text-anchor="middle" fill="#E9D5FF" font-size="11" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Dhaka</text>
+  <rect x="122" y="206" width="102" height="26" rx="13" fill="#DB2777" fill-opacity="0.22" stroke="#F9A8D4"/>
+  <text x="173" y="223" text-anchor="middle" fill="#FBCFE8" font-size="11" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Open to Work</text>
+  <rect x="234" y="206" width="70" height="26" rx="13" fill="#8B5CF6" fill-opacity="0.25" stroke="#C4B5FD"/>
+  <text x="269" y="223" text-anchor="middle" fill="#DDD6FE" font-size="11" font-family="Segoe UI, Arial, sans-serif" font-weight="700">MERN</text>
 
-  <!-- mini file tree card -->
-  <g>
-    <rect x="48" y="274" width="300" height="62" rx="12" fill="#0F172A" stroke="#334155" stroke-width="1.2"/>
-    <text x="64" y="296" fill="#64748B" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">~/projects</text>
-    <text x="64" y="318" fill="#34D399" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12">▸ wtapphub/</text>
-    <text x="170" y="318" fill="#38BDF8" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12">▸ ecommerce/</text>
-    <text x="290" y="318" fill="#FBBF24" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12">▸ api/</text>
-  </g>
+  <!-- terminal -->
+  <rect x="540" y="28" width="430" height="244" rx="16" fill="#0C0318" stroke="#7C3AED" stroke-opacity="0.65" stroke-width="1.6"/>
+  <rect x="540" y="28" width="430" height="34" rx="16" fill="#1A0B2E"/>
+  <rect x="540" y="48" width="430" height="14" fill="#1A0B2E"/>
+  <circle cx="562" cy="45" r="5" fill="#F472B6"/>
+  <circle cx="580" cy="45" r="5" fill="#FBBF24"/>
+  <circle cx="598" cy="45" r="5" fill="#34D399"/>
+  <text x="622" y="49" fill="#A78BFA" font-family="Consolas, Menlo, monospace" font-size="12">anisul@dev — violet mode</text>
+  <text x="568" y="92" font-family="Consolas, Menlo, monospace" font-size="13"><tspan fill="#C084FC">➜</tspan><tspan fill="#A78BFA"> ~ </tspan><tspan fill="#F5F3FF">npx create-stack@latest</tspan></text><text x="568" y="116" font-family="Consolas, Menlo, monospace" font-size="13" fill="#C4B5FD">✔ React + TypeScript locked in</text><text x="568" y="140" font-family="Consolas, Menlo, monospace" font-size="13" fill="#C4B5FD">✔ Node / Express / MongoDB</text><text x="568" y="164" font-family="Consolas, Menlo, monospace" font-size="13" fill="#DDD6FE">const craft = ["UI", "API", "DB"]</text><text x="568" y="188" font-family="Consolas, Menlo, monospace" font-size="13" fill="#DDD6FE">await explore("ASP.NET + EF Core")</text><text x="568" y="212" font-family="Consolas, Menlo, monospace" font-size="13"><tspan fill="#C084FC">➜</tspan><tspan fill="#A78BFA"> ~ </tspan><tspan fill="#F5F3FF">git push origin main ✦</tspan><tspan fill="#E9D5FF">▍</tspan></text>
 
-  <!-- big terminal -->
-  <g>
-    <rect x="730" y="42" width="420" height="276" rx="16" fill="#020617" stroke="#334155" stroke-width="1.5"/>
-    <rect x="730" y="42" width="420" height="36" rx="16" fill="#111827"/>
-    <rect x="730" y="62" width="420" height="16" fill="#111827"/>
-    <circle cx="754" cy="60" r="5" fill="#F87171"/>
-    <circle cx="772" cy="60" r="5" fill="#FBBF24"/>
-    <circle cx="790" cy="60" r="5" fill="#34D399"/>
-    <text x="818" y="64" fill="#64748B" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12">anisul@dev:~/stack — zsh</text>
-
-    <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13">
-      <text x="752" y="104"><tspan fill="#34D399">➜</tspan><tspan fill="#38BDF8"> ~ </tspan><tspan fill="#E2E8F0">npx create-app@latest</tspan></text>
-      <text x="752" y="128" fill="#94A3B8">✔ Framework: React + TypeScript</text>
-      <text x="752" y="152" fill="#94A3B8">✔ Backend: Node / Express / Mongo</text>
-      <text x="752" y="176"><tspan fill="#34D399">➜</tspan><tspan fill="#38BDF8"> ~ </tspan><tspan fill="#E2E8F0">code .</tspan></text>
-      <text x="752" y="208" fill="#64748B">// shipping production-ready APIs</text>
-      <text x="752" y="232"><tspan fill="#38BDF8">const</tspan><tspan fill="#E2E8F0"> stack = [</tspan><tspan fill="#34D399">"MERN"</tspan><tspan fill="#E2E8F0">, </tspan><tspan fill="#FBBF24">"RTK"</tspan><tspan fill="#E2E8F0">]</tspan></text>
-      <text x="752" y="256"><tspan fill="#38BDF8">await</tspan><tspan fill="#E2E8F0"> explore(</tspan><tspan fill="#22D3EE">"ASP.NET + EF Core"</tspan><tspan fill="#E2E8F0">)</tspan></text>
-      <text x="752" y="286"><tspan fill="#34D399">➜</tspan><tspan fill="#38BDF8"> ~ </tspan><tspan fill="#E2E8F0">git push origin main</tspan><tspan fill="#67E8F9"> ▍</tspan></text>
-    </g>
-  </g>
-
-  <!-- floating badges near terminal -->
-  <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" font-weight="700">
-    <rect x="690" y="300" width="70" height="24" rx="8" fill="#0EA5E9" fill-opacity="0.25" stroke="#38BDF8"/>
-    <text x="725" y="316" text-anchor="middle" fill="#7DD3FC">React</text>
-    <rect x="770" y="300" width="70" height="24" rx="8" fill="#339933" fill-opacity="0.25" stroke="#4ADE80"/>
-    <text x="805" y="316" text-anchor="middle" fill="#86EFAC">Node</text>
-    <rect x="850" y="300" width="78" height="24" rx="8" fill="#512BD4" fill-opacity="0.28" stroke="#A78BFA"/>
-    <text x="889" y="316" text-anchor="middle" fill="#DDD6FE">.NET</text>
-    <rect x="938" y="300" width="78" height="24" rx="8" fill="#4169E1" fill-opacity="0.28" stroke="#93C5FD"/>
-    <text x="977" y="316" text-anchor="middle" fill="#BFDBFE">Postgres</text>
-  </g>
+  <!-- floating chips -->
+  <rect x="548" y="250" width="58" height="18" rx="6" fill="#7C3AED" fill-opacity="0.35" stroke="#A78BFA"/>
+  <text x="577" y="263" text-anchor="middle" fill="#E9D5FF" font-size="10" font-family="Consolas, Menlo, monospace">React</text>
+  <rect x="614" y="250" width="54" height="18" rx="6" fill="#6D28D9" fill-opacity="0.35" stroke="#C4B5FD"/>
+  <text x="641" y="263" text-anchor="middle" fill="#E9D5FF" font-size="10" font-family="Consolas, Menlo, monospace">Node</text>
+  <rect x="676" y="250" width="54" height="18" rx="6" fill="#5B21B6" fill-opacity="0.4" stroke="#DDD6FE"/>
+  <text x="703" y="263" text-anchor="middle" fill="#F5F3FF" font-size="10" font-family="Consolas, Menlo, monospace">.NET</text>
 </svg>
