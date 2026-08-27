@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnisulHaqueNiloy/AnisulHaqueNiloy/main/assets/banner.png" width="100%" alt="Anisul Haque Niloy — Full-Stack Developer banner" />
+  <img src="https://raw.githubusercontent.com/AnisulHaqueNiloy/AnisulHaqueNiloy/main/assets/banner.gif" width="100%" alt="Animated coding banner — Anisul Haque Niloy" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&height=55&lines=Shipping+production-ready+web+products;React+%7C+Node+%7C+MongoDB+%7C+TypeScript;Exploring+ASP.NET+Core+%26+PostgreSQL" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=820&height=50&lines=const+dev+%3D+%22Full-Stack+Developer%22%3B;stack+%3D+%5B%22React%22%2C+%22Node%22%2C+%22MongoDB%22%5D%3B;exploring+%3D+%5B%22ASP.NET+Core%22%2C+%22PostgreSQL%22%2C+%22EF+Core%22%5D%3B" alt="Code typing animation" />
 </div>
 
 <br />
@@ -58,7 +58,11 @@ const anisul = {
 </td>
 <td width="30%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/AnisulHaqueNiloy/AnisulHaqueNiloy/main/assets/coding.gif" width="230" alt="Coding animation" />
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="220" alt="Developer coding animation" />
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=34D399&center=true&vCenter=true&width=240&height=40&lines=npm+run+dev;git+commit+-m+%22ship%22;dotnet+build" alt="Mini terminal typing" />
 
 <br />
 
