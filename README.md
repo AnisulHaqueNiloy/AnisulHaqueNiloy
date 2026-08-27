@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnisulHaqueNiloy/AnisulHaqueNiloy/main/assets/banner.gif" width="100%" alt="Animated coding banner — Anisul Haque Niloy" />
+  <img src="https://cdn.jsdelivr.net/gh/AnisulHaqueNiloy/AnisulHaqueNiloy@main/assets/banner.gif" width="100%" alt="Animated coding banner — Anisul Haque Niloy" />
 </div>
 
 <div align="center">
@@ -59,6 +59,10 @@ const anisul = {
 <td width="30%" valign="top" align="center">
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="220" alt="Developer coding animation" />
+
+<br />
+
+<img src="https://cdn.jsdelivr.net/gh/AnisulHaqueNiloy/AnisulHaqueNiloy@main/assets/desk-coding.gif" width="240" alt="Developer desk coding animation" />
 
 <br />
 
@@ -353,5 +357,5 @@ Full-stack grocery platform with inventory control and automated admin email ale
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnisulHaqueNiloy/AnisulHaqueNiloy/main/assets/footer.png" width="100%" alt="Thanks for visiting footer" />
+  <img src="https://cdn.jsdelivr.net/gh/AnisulHaqueNiloy/AnisulHaqueNiloy@main/assets/footer.png" width="100%" alt="Thanks for visiting footer" />
 </div>
