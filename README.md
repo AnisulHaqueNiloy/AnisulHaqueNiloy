@@ -45,15 +45,7 @@ At **Softvence**, I ship client-facing React experiences with Redux Toolkit, RTK
 
 <br />
 
-```js
-const anisul = {
-  role: "Full-Stack Developer (MERN)",
-  company: "Softvence",
-  focus: ["Clean Architecture", "Scalable APIs", "UX Polish"],
-  exploring: ["ASP.NET Core", "PostgreSQL", "EF Core"],
-  mindset: "Own the product. Ship with standards."
-};
-```
+<img src="https://cdn.jsdelivr.net/gh/AnisulHaqueNiloy/AnisulHaqueNiloy@main/assets/about-code.gif" width="100%" alt="Animated TypeScript profile object" />
 
 </td>
 <td width="30%" valign="top" align="center">
@@ -309,7 +301,7 @@ Full-stack grocery platform with inventory control and automated admin email ale
 <br />
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=AnisulHaqueNiloy&theme=dark&hide_border=true&background=0E1624&ring=C2A46B&fire=E2D3A8&currStreakLabel=C2A46B&sideLabels=C5D0DC&dates=8FA3B8" alt="GitHub streak" />
+  <img height="180" src="https://cdn.jsdelivr.net/gh/AnisulHaqueNiloy/AnisulHaqueNiloy@main/assets/github-streak.png" alt="GitHub streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Line divider" />
