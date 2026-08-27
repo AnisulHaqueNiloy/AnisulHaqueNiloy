@@ -58,7 +58,7 @@ const anisul = {
 </td>
 <td width="30%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTipq/giphy.gif" width="220" alt="Coding animation" />
+<img src="https://raw.githubusercontent.com/AnisulHaqueNiloy/AnisulHaqueNiloy/main/assets/coding.gif" width="230" alt="Coding animation" />
 
 <br />
 
