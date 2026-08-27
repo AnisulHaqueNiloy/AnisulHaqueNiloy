@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Anisul Haque Niloy — Full-Stack Developer banner" />
+  <img src="https://raw.githubusercontent.com/AnisulHaqueNiloy/AnisulHaqueNiloy/main/assets/banner.png" width="100%" alt="Anisul Haque Niloy — Full-Stack Developer banner" />
 </div>
 
 <div align="center">
@@ -294,26 +294,14 @@ Full-stack grocery platform with inventory control and automated admin email ale
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35" height="35" /> GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AnisulHaqueNiloy&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnisulHaqueNiloy&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=E5E7EB" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=AnisulHaqueNiloy&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB&cache_seconds=1800" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs?username=AnisulHaqueNiloy&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=E5E7EB&cache_seconds=1800" alt="Top languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=AnisulHaqueNiloy&theme=radical&hide_border=true&background=0B1220&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=E5E7EB&dates=94A3B8" alt="GitHub streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnisulHaqueNiloy&bg_color=0B1220&color=38BDF8&line=22D3EE&point=F97316&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity graph" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnisulHaqueNiloy&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  <img height="180" src="https://streak-stats.demolab.com?user=AnisulHaqueNiloy&theme=dark&hide_border=true&background=0B1220&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=E5E7EB&dates=94A3B8" alt="GitHub streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Line divider" />
@@ -361,5 +349,5 @@ Full-stack grocery platform with inventory control and automated admin email ale
 <br />
 
 <div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Thanks for visiting footer" />
+  <img src="https://raw.githubusercontent.com/AnisulHaqueNiloy/AnisulHaqueNiloy/main/assets/footer.png" width="100%" alt="Thanks for visiting footer" />
 </div>
